@@ -41,7 +41,7 @@ Use Cases (Examples):
 
 Solution 1: ReverseStringSwapVowels.java
 ---------------------------------------------------
-SINGLE LOOPING algorithm using non-fancy swap of vowel:
+SINGLE LOOPING algorithm using non-fancy swap array position of vowel:
 1. Approach string from both ends (i for beginning, j for ends and
    progressively move towards the center from both ends, where (i=j) .
 1a. If either current position is consonant ignore swapping
