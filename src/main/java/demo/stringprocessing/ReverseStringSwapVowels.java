@@ -1,8 +1,8 @@
 package demo.stringprocessing;
 
 /**
- * Algorithm uses non-fancy swap of vowel only position
- * 
+ * Algorithm uses non-fancy swap array position of vowel
+ *
  * 1. Approach string from both ends (i for beginning, j for ends and
  *    progressively move towards the center (i=j) from both ends.
  * 1a. If either current position is consonant ignore swapping
